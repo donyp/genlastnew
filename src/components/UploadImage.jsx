@@ -41,8 +41,8 @@ function UploadImage() {
     if (uploadedImagesCount >= maxUploadsPerDay) {
       Swal.fire({
         icon: "error",
-        title: "Oops...",
-        text: "You have reached the maximum uploads for today.",
+        title: "Tidak Ada Izin!",
+        text: "Kamu Tidak Memiliki Izin Untuk Upload Foto.",
 		customClass: {
 			container: "sweet-alert-container",
 		},
