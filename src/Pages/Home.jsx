@@ -44,7 +44,7 @@ const Home = () => {
 						GENLAST SPACE
 					</h1>
 					<h6 className="text-sm" style={{ letterSpacing: "5px" }}>
-						We Alway Together
+						We Always Together
 					</h6>
 				</div>
 			</div>

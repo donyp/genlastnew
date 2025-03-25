@@ -2,7 +2,6 @@ const BoxGallery = () => {
 	return (
 		<div id="BoxGallery">
 			<div className="flex justify-between">
-				<img src="/upload.png" alt="" className="w-auto h-10" />
 				<img src="/next.png" alt="" className="h-5 w-5" />
 			</div>
 
